@@ -260,3 +260,10 @@ copy --help
 --help
 clear
 cp --help
+clear
+cp -r toms-website
+cp --help
+clear
+ls]
+ls --color=auto
+cp -r website-boilerplate toms-website
