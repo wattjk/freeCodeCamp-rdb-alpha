@@ -80,3 +80,4 @@ clear
 mkdir course
 ls --color=auto
 mkdir website
+ls --color=auto
