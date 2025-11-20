@@ -77,3 +77,6 @@ pwd
 cd ../..
 ls --color=auto
 clear
+mkdir course
+ls --color=auto
+mkdir website
