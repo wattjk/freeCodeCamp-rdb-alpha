@@ -81,3 +81,10 @@ mkdir course
 ls --color=auto
 mkdir website
 ls --color=auto
+rm course
+cd course
+rm
+cd ..
+rm -r course
+ls --color=auto
+cd website
