@@ -234,3 +234,5 @@ cler
 clear
 rm -help
 rm --help
+clear
+rm -r fonts
