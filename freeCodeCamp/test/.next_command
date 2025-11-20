@@ -197,3 +197,5 @@ clear
 find -name footer.jpeg
 mv images/footer.jpeg client/assets/images
 find
+clear
+rmdir images
