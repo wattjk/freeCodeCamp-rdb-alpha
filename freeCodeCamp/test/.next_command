@@ -179,3 +179,4 @@ cd client
 clear
 mkdir assets
 cd assets
+mkdir images
